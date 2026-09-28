@@ -6,7 +6,8 @@ import "./style.css";
 //import "./bases/05-functions";
 //import "./bases/06-obj-destructuring";
 //import "./bases/07-array-destructuring";
-import "./bases/10-fech-api";
+//import "./bases/10-fech-api";
+import "./bases/11-async-await";
 
 document.querySelector<HTMLDivElement>("#app")!.innerHTML = `
   <div>
